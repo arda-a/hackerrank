@@ -1,2 +1,2 @@
 # hackerrank
-Interview Preperation Kit
+Interview Preperation Kit solved with C++
